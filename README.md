@@ -19,7 +19,7 @@
 </p>
 <br>
 
-[![Middleclicker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=middleclicker&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Middleclicker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=middleclicker&theme=dracula&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
