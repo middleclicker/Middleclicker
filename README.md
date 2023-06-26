@@ -12,7 +12,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://middleclicker.github.io/middleclicker">
+  <a href="https://middleclicker.github.io/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=middleclicker&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=middleclicker&theme=blueberry&hide_border=true" />
   </a>
@@ -58,7 +58,7 @@
 ### :link: &nbsp;Contact Info
 
 <p align="center">
-<a href="https://middleclicker.github.io/middleclicker"><img src="https://img.shields.io/badge/-Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://middleclicker.github.io/"><img src="https://img.shields.io/badge/-Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCGDXzV2j5Jya7qgLU_asDrg"><img src="https://img.shields.io/badge/-Youtube-0077B5?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 <a href="https://github.com/middleclicker"><img src="https://img.shields.io/badge/-Github-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
