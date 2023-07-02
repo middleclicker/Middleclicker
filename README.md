@@ -10,14 +10,7 @@
 
 ### 📈 &nbsp;Contribution Statistics
 
-<br/>
-<p align="left">
-  <a href="https://middleclicker.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=middleclicker&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=middleclicker&theme=blueberry&hide_border=true" />
-  </a>
-</p>
-<br>
+
 
 [![Middleclicker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=middleclicker&theme=dracula&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
