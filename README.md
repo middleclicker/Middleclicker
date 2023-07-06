@@ -7,10 +7,10 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+  
+[![Hits](https://hits.sh/github.com/middleclicker.svg?style=for-the-badge&color=939692)](https://hits.sh/github.com/middleclicker/)
 
 ### 📈 &nbsp;Contribution Statistics
-[![Hits](https://hits.sh/github.com/middleclicker/middleclicker.svg)](https://hits.sh/github.com/middleclicker/middleclicker/)
-
 
 [![Middleclicker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=middleclicker&theme=dracula&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
