@@ -9,7 +9,7 @@
 <br>
 
 ### 📈 &nbsp;Contribution Statistics
-
+![](https://komarev.com/ghpvc/?username=middleclicker)
 
 
 [![Middleclicker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=middleclicker&theme=dracula&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
