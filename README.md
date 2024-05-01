@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Hello~+I+am+Middleclicker!;Welcome+to+my+profile+%3C3;I+am+a+9th+grade+student+at+SCIE.;I+am+a+self-taught+programmer.;I+am+a+passionate+writer.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Hello~+I+am+Middleclicker!;Welcome+to+my+profile+%3C3;I+am+a+10th+grade+student+at+SCIE.;I+am+a+self-taught+programmer.;I+am+a+passionate+writer.">
 </p>
 
 <p  align="center">
